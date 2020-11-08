@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "879399955742",
+    "firebase_url": "https://projectlogin-1baec.firebaseio.com",
+    "project_id": "projectlogin-1baec",
+    "storage_bucket": "projectlogin-1baec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879399955742:android:566d4c0dc7fcaf6f4b6d0f",
+        "android_client_info": {
+          "package_name": "com.vijayadhi.project_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879399955742-0q7htclmta5303uun67ud4sg52rm71r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijayadhi.project_login",
+            "certificate_hash": "aebcbd06f824007647cd8e21bcf73c6b7a6aeb21"
+          }
+        },
+        {
+          "client_id": "879399955742-mvg9nqus2dl71h5por3c5nk7he92snjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijayadhi.project_login",
+            "certificate_hash": "ee241b9a1560c1434704810b502dba975c9169e3"
+          }
+        },
+        {
+          "client_id": "879399955742-121pirbvg69pniqi6hjub8dbgj4vn1np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaerqv4vYvr1hmSnDDgQ92WLCGHGkwU2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879399955742-121pirbvg69pniqi6hjub8dbgj4vn1np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
